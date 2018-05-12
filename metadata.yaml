@@ -1,10 +1,14 @@
 _repo: Briefe-aus-Aulestad-an-seine-Tochter-Bergliot-Ibsen_49722
+_version: 0.1.0
 contributor:
   creator:
     editor:
       agent_name: Ibsen, Bergliot
       gutenberg_agent_id: '45508'
       url: http://www.gutenberg.org/2009/agents/45508
+covers:
+- cover_type: archival
+  image_path: 49722-h/images/cover-page.jpg
 creator:
   author:
     agent_name: Bjørnson, Bjørnstjerne
@@ -17,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1772
     wikipedia: http://en.wikipedia.org/wiki/Bjørnstjerne_Bjørnson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49722#Briefe-aus-Aulestad-an-seine-Tochter-Bergliot-Ibsen
 gutenberg_issued: '2015-08-17'
 gutenberg_type: Text
 identifiers:
